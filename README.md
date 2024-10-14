@@ -29,11 +29,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-![Screenshot (17)](https://github.com/user-attachments/assets/e55731d4-aa9e-4b7e-b9cd-c81454d4ca35)
+![Screenshot (17)](https://github.com/user-attachments/assets/e55731d4-aa9e-4b7e-b9cd-c81454d4ca35) ![Screenshot (18)](https://github.com/user-attachments/assets/ad423f83-a59a-4102-8eb5-fab0af51033f)
+
 
 
 <p>
-To install Active Directory, I began by launching Server Manager on my Windows Server. From there, I navigated to the "Add Roles and Features" section, selected Active Directory Domain Services (AD DS) as the role, and proceeded with the installation.
+To install Active Directory, I began by launching Server Manager on my Windows Server. From there, I navigated to the "Add Roles and Features" section, selected Active Directory Domain Services (AD DS) as the role, and proceeded with the installation.  I subsequently promoted the server to function as a domain controller and proceeded to establish a new forest within the environment.
 </p>
 <br />
 
