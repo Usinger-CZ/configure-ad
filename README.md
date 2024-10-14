@@ -25,15 +25,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Install Active Directory
 - Create Domain Admin
 - Join Client to Domain
-- Step 4
+- Setup Remote Desktop for Non-Administrative Users
 
 <h2>Deployment and Configuration Steps</h2>
 
+![Screenshot (17)](https://github.com/user-attachments/assets/e55731d4-aa9e-4b7e-b9cd-c81454d4ca35)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To install Active Directory, I began by launching Server Manager on my Windows Server. From there, I navigated to the "Add Roles and Features" section, selected Active Directory Domain Services (AD DS) as the role, and proceeded with the installation.
 </p>
 <br />
 
