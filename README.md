@@ -34,7 +34,7 @@ This tutorial outlines the implementation of on-premises Active Directory and ad
 
 
 <p>
-To install Active Directory, I began by launching Server Manager on my Windows Server. From there, I navigated to the "Add Roles and Features" section, selected Active Directory Domain Services (AD DS) as the role, and proceeded with the installation.  I subsequently promoted the server to function as a domain controller and proceeded to establish a new forest within the environment.
+To install Active Directory, I began by launching Server Manager on my Windows Server. From there, I navigated to the "Add Roles and Features" section, selected Active Directory Domain Services (AD DS) as the role, and proceeded with the installation.  I subsequently promoted the server to function as a domain controller and proceeded to establish a new forest within the server.
 </p>
 <br />
 
