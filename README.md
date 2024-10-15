@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the implementation of on-premises Active Directory and adding and Admin Account within Azure Virtual Machines.<br />
 
 
 
@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Install Active Directory
 - Create Domain Admin
 - Join Client to Domain
-- Setup Remote Desktop for Non-Administrative Users
+
 
 <h2>Deployment and Configuration Steps</h2>
 
